@@ -1,0 +1,25 @@
+#
+#  $$$$$$$$\           $$\
+#  \__$$  __|          $$ |
+#     $$ |    $$$$$$\  $$ |  $$\  $$$$$$\  $$$$$$$\   $$$$$$$\
+#     $$ |   $$  __$$\ $$ | $$  |$$  __$$\ $$  __$$\ $$  _____|
+#     $$ |   $$ /  $$ |$$$$$$  / $$$$$$$$ |$$ |  $$ |\$$$$$$\
+#     $$ |   $$ |  $$ |$$  _$$<  $$   ____|$$ |  $$ | \____$$\
+#     $$ |   \$$$$$$  |$$ | \$$\ \$$$$$$$\ $$ |  $$ |$$$$$$$  |
+#     \__|    \______/ \__|  \__| \_______|\__|  \__|\_______/
+#
+# Tokens 1.0
+# By Optimal Services
+# Discord: optimal-services.org/discord| ImKlat#0195 |
+# Twitter: @OptimalConfigs
+#
+
+UTILS:
+  TARGET-NOT-FOUND: "Not found"
+  NOT-BALANCE: ""
+COMMANDS:
+  TOKENS-BALANCE: "&eBalance: &a%TOKENS%"
+  TOKENS-GIVE: "&aNice give %TOKENS% to %TARGET%"
+  TOKENS-PAY: "&aNice give %TOKENS% to %TARGET%"
+  TOKENS-SET: "&aNice give %TOKENS% to %TARGET%"
+  TOKENS-REMOVE: "&aNice give %TOKENS% to %TARGET%"
